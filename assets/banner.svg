@@ -6,16 +6,20 @@
     <text x="92" y="78" font-size="22" font-weight="600" fill="#1E5B3C">usegirard.com</text>
     <text x="70" y="164" font-size="66" font-weight="800" letter-spacing="-2" fill="#14140F">The B2B Deal Skills Pack</text>
     <text x="70" y="212" font-size="26" font-weight="400" fill="#14140F" opacity="0.7">Six free skills for the parts of an enterprise deal nobody owns.</text>
-    <g font-size="19" font-weight="600" fill="#1E5B3C">
-      <rect x="70" y="242" width="228" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
-      <text x="88" y="268">Security questionnaires</text>
-      <rect x="310" y="242" width="140" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
-      <text x="328" y="268">Redlines</text>
-      <rect x="462" y="242" width="158" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
-      <text x="480" y="268">Escalations</text>
-      <rect x="632" y="242" width="198" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
-      <text x="650" y="268">Pre-signature gaps</text>
+    <g font-size="16" font-weight="600" fill="#1E5B3C">
+      <rect x="70" y="242" width="202" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="84" y="267">Security questionnaires</text>
+      <rect x="280" y="242" width="94" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="294" y="267">Redlines</text>
+      <rect x="382" y="242" width="112" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="396" y="267">Escalations</text>
+      <rect x="502" y="242" width="162" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="516" y="267">Pre-signature gaps</text>
+      <rect x="672" y="242" width="164" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="686" y="267">Internal objections</text>
+      <rect x="844" y="242" width="138" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="858" y="267">Deal Decisions</text>
     </g>
-    <text x="1130" y="290" font-size="19" font-weight="600" text-anchor="end" fill="#14140F" opacity="0.55">Decide once.</text>
+    <text x="1130" y="267" font-size="16" font-weight="600" text-anchor="end" fill="#14140F" opacity="0.55">Decide once.</text>
   </g>
 </svg>
