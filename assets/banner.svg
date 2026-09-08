@@ -1,1 +1,21 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="The B2B Deal Skills Pack by Girard. Six free skills for the parts of an enterprise deal nobody owns.">
+  <rect width="1200" height="320" fill="#F1EFE8"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#1E5B3C"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <circle cx="72" cy="72" r="7" fill="#1E5B3C"/>
+    <text x="92" y="78" font-size="22" font-weight="600" fill="#1E5B3C">usegirard.com</text>
+    <text x="70" y="164" font-size="66" font-weight="800" letter-spacing="-2" fill="#14140F">The B2B Deal Skills Pack</text>
+    <text x="70" y="212" font-size="26" font-weight="400" fill="#14140F" opacity="0.7">Six free skills for the parts of an enterprise deal nobody owns.</text>
+    <g font-size="19" font-weight="600" fill="#1E5B3C">
+      <rect x="70" y="242" width="228" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="88" y="268">Security questionnaires</text>
+      <rect x="310" y="242" width="140" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="328" y="268">Redlines</text>
+      <rect x="462" y="242" width="158" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="480" y="268">Escalations</text>
+      <rect x="632" y="242" width="198" height="40" rx="3" fill="none" stroke="#1E5B3C" stroke-opacity="0.4"/>
+      <text x="650" y="268">Pre-signature gaps</text>
+    </g>
+    <text x="1130" y="290" font-size="19" font-weight="600" text-anchor="end" fill="#14140F" opacity="0.55">Decide once.</text>
+  </g>
+</svg>
