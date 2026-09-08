@@ -7,7 +7,7 @@ Six skills. Install all of them or just the one you need. Nothing to configure, 
 Skills live in `.claude/skills/` inside a project, or `~/.claude/skills/` to make them available everywhere.
 
 ```bash
-git clone https://github.com/YOUR_ORG/girard-deal-skills.git
+git clone https://github.com/aman2139/girard-deal-skills.git
 cd girard-deal-skills
 
 # this project only
