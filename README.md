@@ -22,7 +22,7 @@ Free, MIT licensed, no account, no dependencies. Built by [Girard](https://usegi
 **Claude Code**
 
 ```bash
-git clone https://github.com/aman2139/girard-deal-skills.git
+git clone https://github.com/YOUR_ORG/girard-deal-skills.git
 mkdir -p .claude/skills
 cp -r girard-deal-skills/skills/* .claude/skills/
 ```
