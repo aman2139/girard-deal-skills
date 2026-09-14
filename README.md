@@ -97,13 +97,9 @@ Not legal advice, not a security certification, and not a substitute for counsel
 
 ## Who made this
 
-[Girard](https://usegirard.com) is a deal room for B2B companies selling into enterprise and regulated buyers. Seven AI specialists (commercial, product, legal, security, finance, negotiation, policy) work live deals alongside your own people.
+[Girard](https://usegirard.com) is a deal room for B2B companies selling into enterprise and regulated buyers. Seven AI specialists work live deals alongside your own people, on a company/deal brain - A decision is never lost.
 
-The difference from these free skills: in Girard, every answer resolves to a real company policy or a named person's past decision, never a guess. When a question has no answer yet, it escalates to whoever owns it, gets a ruling, and the ruling is kept. Your company stops deciding the same thing twice.
-
-These skills are stateless. They help with one document at a time. Girard is what happens when the answers stop disappearing after you close the tab.
-
-**[Ask for free access for your team](https://usegirard.com/#request-access)** · **[usegirard.com](https://usegirard.com)** · **[Contact us](https://usegirard.com/#contact)**
+**[Ask for free access for your team](https://usegirard.com/#request-access)** · **[usegirard.com](https://usegirard.com)** · **[Contact us](https://usegirard.com/contact)**
 
 ## Contributing
 
